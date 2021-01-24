@@ -7,7 +7,7 @@ Scoop Bucket for cool stuff I find.
 1. Add bucket
 
 ```pwsh
-scoop bucket add scoop-websocketd https://github.com/Animesh-Ghosh/kulfi-scoop.git
+scoop bucket add kulfi-scoop https://github.com/Animesh-Ghosh/kulfi-scoop.git
 ```
 
 2. Install Apps
