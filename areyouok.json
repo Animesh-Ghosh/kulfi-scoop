@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "url": "https://github.com/Bhupesh-V/areyouok/releases/download/v1.0.0/areyouok-windows-amd64.exe",
+    "hash": "3bd4ffbc92442f45eef76cae09b272069adf87e0821639bdfc2861611c118e25",
+    "checkver": {
+        "github": "https://github.com/Bhupesh-V/areyouok"
+    },
+    "autoupdate": {
+        "url": "https://github.com/Bhupesh-V/areyouok/releases/download/v$version/areyouok-windows-amd64.exe"
+    },
+    "bin": [["areyouok-windows-amd64.exe", "areyouok"]],
+    "description": "A minimal, fast & easy to use URL health checker",
+    "homepage": "https://github.com/Bhupesh-V/areyouok",
+    "license": "MIT"
+}
