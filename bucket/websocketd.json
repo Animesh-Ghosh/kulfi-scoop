@@ -1,7 +1,7 @@
 {
-    "version": "0.3.0",
-    "url": "https://github.com/joewalnes/websocketd/releases/download/v0.3.0/websocketd-0.3.0-windows_amd64.zip",
-    "hash": "a4b6197c0d4f4e0ccec4f58b9883be9042960ad70b47fd6ef56b2fc1a7fc4ea4",
+    "version": "0.4.1",
+    "url": "https://github.com/joewalnes/websocketd/releases/download/v0.4.1/websocketd-0.4.1-windows_amd64.zip",
+    "hash": "ae73e3711dfe2db54af04f2458ea6a397e5ffc566aaae5ab59e3bf1eaac1d555",
     "checkver": {
         "github": "https://github.com/joewalnes/websocketd"
     },

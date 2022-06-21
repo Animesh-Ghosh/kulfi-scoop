@@ -1,7 +1,7 @@
 {
-    "version": "1.1.0",
-    "url": "https://github.com/Bhupesh-V/areyouok/releases/download/v1.1.0/areyouok-windows-amd64.exe",
-    "hash": "1e9725ff1f8ecd95ecafe9e08eecd6ca2dd3e24bc5f2e8c5f24bada4415e402f",
+    "version": "1.2.0",
+    "url": "https://github.com/Bhupesh-V/areyouok/releases/download/v1.2.0/areyouok-windows-amd64.exe",
+    "hash": "34199831322918a6be633adf29fc9656e8a12feb488b1287a12b95feaab7c843",
     "checkver": {
         "github": "https://github.com/Bhupesh-V/areyouok"
     },
