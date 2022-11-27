@@ -1,22 +1,18 @@
 # kulfi-scoop
 
+<!-- Uncomment the following line after replacing placeholders -->
+[![Tests](https://github.com/Animesh-Ghosh/kulfi-scoop/actions/workflows/ci.yml/badge.svg)](https://github.com/Animesh-Ghosh/kulfi-scoop/actions/workflows/ci.yml) [![Excavator](https://github.com/Animesh-Ghosh/kulfi-scoop/actions/workflows/excavator.yml/badge.svg)](https://github.com/Animesh-Ghosh/kulfi-scoop/actions/workflows/excavator.yml)
+
 Scoop Bucket for cool stuff I find.
 
-## Usage
+How do I install these manifests?
+---------------------------------
 
-1. Add bucket
+To add this bucket, run `scoop bucket add kulfi-scoop https://github.com/Animesh-Ghosh/kulfi-scoop`. To install, do `scoop install areyouok`.
 
-```pwsh
-scoop bucket add kulfi-scoop https://github.com/Animesh-Ghosh/kulfi-scoop.git
-```
+How do I contribute new manifests?
+----------------------------------
 
-2. Install Apps
+To make a new manifest contribution, please read the [Contributing Guide](https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md).
 
-```pwsh
-scoop install websocketd
-```
-
-## List of Apps
-
-1. [joewalnes/websocketd](https://github.com/joewalnes/websocketd)
-2. [Bhupesh-V/areyouok](https://github.com/Bhupesh-V/areyouok)
+----
