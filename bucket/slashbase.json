@@ -5,6 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
+            "hash": "3a887d9a2abf8ac598a05fb8423eddaf2d24a10bc304ab8b49742899ef3f41c2",
             "url": "https://github.com/slashbaseide/slashbase/releases/download/v0.2.1/windows_amd64.zip"
         },
     },
