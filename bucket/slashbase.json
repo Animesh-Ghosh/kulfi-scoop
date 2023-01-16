@@ -1,12 +1,12 @@
 {
-    "version": "0.4.1",
+    "version": "0.5.0",
     "description": "The in-browser database IDE & CLI for your dev/data workflows. Supports: PostgreSQL & MongoDB.",
     "homepage": "https://slashbase.com/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "hash": "2f83d464a920258049fde4a181a4ad7cae23ee010a29e99551b57f3f8a799302",
-            "url": "https://github.com/slashbaseide/slashbase/releases/download/v0.4.1/windows_amd64.zip"
+            "hash": "faf44eb65916ebfda20fdffefb08a22f032ccf0c2ec6d0eb09395997ff5e87fa",
+            "url": "https://github.com/slashbaseide/slashbase/releases/download/v0.5.0/windows_amd64.zip"
         }
     },
     "bin": "slashbase.exe",
